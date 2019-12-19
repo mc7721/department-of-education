@@ -1,0 +1,65 @@
+{
+    "name": "Department of Education",
+    "description": "Welcome to my page.  If you're looking for the official source of information about the U.S. Department of Education, please visit our homepage at www.ed.gov.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11186-department-of-education.jpg",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-education\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of Education",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11186-department-of-education.jpg",
+            "humanURL": "http:\/\/www.ed.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-education-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-education-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/u-s-department-of-education"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.ed.gov\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "answers@ed.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Ed.Language.Assistance@ed.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/usedgov"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ed.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/United_States_Department_of_Education"
+        }
+    ]
+}
